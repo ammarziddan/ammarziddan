@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 
 ##### Connect with me
-![mailto:ammarziddan@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![https://www.linkedin.com/in/ammar-ziddan-33954a248/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![ammarziddan@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ammarziddan@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ammar-ziddan-33954a248/)
 
 ##### My Stats
 ![Ziddan's stats](https://github-readme-stats.vercel.app/api?username=ammarziddan&show_icons=true&theme=merko)

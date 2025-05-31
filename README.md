@@ -18,8 +18,7 @@ I'm Ammar Ziddan, self taught Fullstack Developer from Bandung, Indonesia
 #### 📊 My Stats
 
 
-**Codewars**
-[![Codewars](https://www.codewars.com/users/ammarziddan/badges/small)](https://www.codewars.com/users/ammarziddan)
+**Codewars** <br>[![Codewars](https://www.codewars.com/users/ammarziddan/badges/small)](https://www.codewars.com/users/ammarziddan)
 
 ![Ziddan's stats](https://github-readme-stats.vercel.app/api?username=ammarziddan&show_icons=true&theme=merko)
 
